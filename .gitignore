@@ -8,3 +8,7 @@
 *.vpp~
 *.vpp.bak*
 *.vpp.vbak
+
+# Draw.io backup and temporary files
+.$*.bkp
+*.drawio.bkp
